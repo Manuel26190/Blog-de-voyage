@@ -1,0 +1,10 @@
+{
+  "homepage": "https;//Manuelfaure26190.github.io/Blog-de-voyage",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  },
+  "dependencies": {
+    "react-scripts": "^5.0.1",
+    "deploy": "gh-pages -d build"
+  }
+}
